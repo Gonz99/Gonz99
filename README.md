@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Gonzalo González
 
-<!--
-**Gonz99/Gonz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+Soy un apasionado del análisis de datos y la visualización. Me gusta convertir información en conocimiento y apoyar la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+🔹 [Analisis de operadores ineficaces](https://github.com/Gonz99/An-lisis-de-operadores-ineficaces)  
+🔹 [Test AB campaña de MK](https://github.com/Gonz99/Test-A-B-campa-a-de-MK)  
+🔹 [Proyecto SQL](https://github.com/Gonz99/Proyecto-SQL)
+
+---
+
+## 🛠️ Tecnologías y herramientas
+Python • Pandas • SQL • Power BI • Tableau • Excel • Scikit-Learn
+
+---
+
+## 📫 Contacto
+💼 LinkedIn: https://www.linkedin.com/in/g-gonzalezl/
+📧 Email: g.gonzalezla.99@gmail.com
